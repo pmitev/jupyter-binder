@@ -1,0 +1,5 @@
+ase
+pymatgen
+pandas
+gnuplot_kernel
+fortran-magic
