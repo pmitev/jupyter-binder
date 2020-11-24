@@ -1,5 +1,6 @@
 ase
 pymatgen
 pandas
+matplotlib
 gnuplot_kernel
 fortran-magic
