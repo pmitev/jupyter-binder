@@ -2,6 +2,6 @@ gawk
 vim
 nano
 mc
-cython
+cython3
 sqlite
 gnuplot
